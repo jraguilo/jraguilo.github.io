@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome To My Blog!
+title: Welcome To My Site!
 ---
 {% include JB/setup %}
 
@@ -8,8 +8,8 @@ Hi! I am John Rey Tadeo Aguilo and I'm a junior software developer in Southern C
 
 I am always eager to expand my programming knowledge, and am currently seeking a position as a junior developer. I have worked with a variety of programming languages including:
 
-Languages - Java, C++, C#, Python, Javascript
-Frameworks - Android, .Net, Laravel, JQuery
+    * Languages - Java, C++, C#, Python, Javascript
+    * Frameworks - Android, .Net, Laravel, JQuery
 
 <ul class="posts">
   {% for post in site.posts %}
