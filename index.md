@@ -4,11 +4,11 @@ title: Welcome To My Site!
 ---
 {% include JB/setup %}
 
-Hi! I am John Rey Tadeo Aguilo and I'm a junior software developer in Southern California. 
+Hi! I am John Rey T. Aguilo and I am a junior software developer in Southern California. 
 
 I am always eager to expand my programming knowledge, and am currently seeking a position as a junior developer. I have worked with a variety of programming languages including:
 
-    * Languages - Java, C++, C#, Python, Javascript
+    * Languages - Java, C++, C#, Python, Javascript, PHP, Unix Scripting
     * Frameworks - Android, .Net, Laravel, JQuery
 
 <ul class="posts">
